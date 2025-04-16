@@ -1,6 +1,6 @@
 # Useful Links
 
-[plxplainers.xyz](https://www.plxplainers.xyz/)<br>
-[mediaclients.wiki/Plex](https://mediaclients.wiki/Plex)<br>
 [{{ vars.request_url }}](https://{{ vars.request_url }})<br>
-[zombo.com](https://www.zombo.com/)
+[Pick Random Movie](https://www.bleeroulette.bleeblonks.com/)
+[Plex Statistics](https://bleemedia.bleeblonks.com/)<br>
+[Plex Client Info](https://mediaclients.wiki/Plex)<br>
