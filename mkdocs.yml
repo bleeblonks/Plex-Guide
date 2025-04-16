@@ -126,8 +126,8 @@ extra:
   vars:
     username: !ENV GITHUB_REPOSITORY_OWNER
     repo_name: !ENV GITHUB_REPOSITORY
-    request_url: "request.example.com"
-    plex_url: "plex.example.com"
+    request_url: "bleerequest.bleeblonks.com"
+    plex_url: "bleeplex.bleeblonks.com"
     plex_libraries: "Movies and TV Shows"
     noreply_email: "noreply@example.com"
 
