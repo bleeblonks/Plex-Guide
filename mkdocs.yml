@@ -128,8 +128,8 @@ extra:
     repo_name: !ENV GITHUB_REPOSITORY
     request_url: "bleerequest.bleeblonks.com"
     plex_url: "bleeplex.bleeblonks.com"
-    plex_libraries: "Movies and TV Shows"
-    noreply_email: "noreply@example.com"
+    plex_libraries: "4K Movies, 4K TV Shows, 4K Kids Movies, 4K Anime Movies, Movies,TV Shows, Kids Movies, Kids TV Shows, Anime, Anime Movies, Requested Movies, Requested TV Shows, Music, Youtube "
+    noreply_email: "bleeblonks@gmail.com"
 
   env:
     branch: !ENV [GITHUB_REF_NAME, 'main']
